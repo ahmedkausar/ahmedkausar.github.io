@@ -6,7 +6,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=Y_3_KbEAAAAJ)
 [![Website](https://img.shields.io/badge/Website-ahmedkausar.github.io-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://ahmedkausar.github.io/)
 
-
 Take a look at **[[kausarahmed.me]](https://kausarahmed.me/)**
 
 ## About Me
@@ -21,8 +20,6 @@ My primary research interests include:
 - **Trustworthy AI**
 
 ## Contact
-
----
 
 - **Email**: [kausarahmed2nd@gmail.com](mailto:kausarahmed2nd@gmail.com)
 - **Scholar**: [Google Scholar Profile](https://scholar.google.co.uk/citations?user=Y_3_KbEAAAAJ)
